@@ -1,0 +1,14 @@
+avocado
+apples
+beans
+broccoli
+pumpkin
+artichoke
+asparagus
+potato
+corn
+mushroom
+cucumber
+tomato
+lettuce
+spinach

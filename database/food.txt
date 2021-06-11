@@ -1,0 +1,8 @@
+eggs
+pork
+beef
+tofu
+rice
+fries
+burger
+noodles

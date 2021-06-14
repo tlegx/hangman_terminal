@@ -26,8 +26,6 @@ I am constantly adding new features and fixing to this app. If you found a bug, 
 ![Wrong guess](https://github.com/tlegx/hangman_terminal/blob/master/demo/Screenshot%202021-06-11%20214616.png) ![Player won](https://github.com/tlegx/hangman_terminal/blob/master/demo/Screenshot%202021-06-11%20214636.png)
 ![Credits screen](https://github.com/tlegx/hangman_terminal/blob/master/demo/Screenshot%202021-06-11%20214651.png)
 ## License
-hangman_terminal is licensed under GNU General Public License v3.0
-
-Copyright (C) 2021 tlegx
-
+hangman_terminal is licensed under GNU General Public License v3.0<br/>
+Copyright (C) 2021 tlegx<br/>
 For more information, please see [LICENSE](https://github.com/tlegx/hangman_terminal/blob/master/LICENSE)

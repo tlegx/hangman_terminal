@@ -31,7 +31,7 @@ class HangmanGame(DrawHangMan):
         file.close()
         # Remove trailing new line from randomly selected element of list
         rlines = random.choice(lines)
-        word_choice= rlines.rstrip("\n")
+        word_choice = rlines.rstrip("\n")
         subject = rfile.replace(".txt", "")
         print("The subject is: " + subject)
         return word_choice
@@ -80,7 +80,7 @@ class HangmanGame(DrawHangMan):
             sys.exit()
 
     def print_hanger(self, tries_left, part=True, status='loss', next = False):
-        if tries_left== 6:
+        if tries_left == 6:
             self.start()
         elif tries_left < 6 and tries_left > 0:
             if next:
@@ -104,7 +104,7 @@ class HangmanGame(DrawHangMan):
 
         if guess in self.word_choice:
             self.wordlen += 1
-            self.print_hanger(self.tries_left,part=False, status='win', next=False)
+            self.print_hanger(self.tries_left, part=False, status='win', next=False)
             self.print_word_choice(guess)
             self.guesses += guess
             self.allguess.append(guess)
@@ -140,7 +140,7 @@ class HangmanGame(DrawHangMan):
         print("Created by tlegx")
         print("Copyright (c) 2021 tlegx under GPL-3.0 license")
         print("For more information, please visit:")
-        print("https://github.com/tlegx/hangman-terminal")
+        print("https://github.com/tlegx/hangman_terminal")
         print("or:")
         print("https://tlegx.rf.gd")
         cprint('========= PRESS ANY KEY =========', 'red', attrs=['blink'])

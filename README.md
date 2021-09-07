@@ -20,6 +20,8 @@ If you want more words because you've cycled through it all, or just want to cha
 - Don't add spaces to the word. You can still play it but it will rather be confusing.
 ## Bug fixes and contributions
 I am constantly adding new features and fixing to this app. If you found a bug, please don't hesitate to create an [issue](https://github.com/tlegx/hangman_terminal/issues), or if you know the fix, feel free to contribute to this repository.
+### Acknowledgements
+Special thanks to [kartik4949](https://github.com/kartik4949) for code refactoring and optimizations on version v1.1.0!
 ## Screenshots
 ![Welcome screen](https://github.com/tlegx/hangman_terminal/blob/master/demo/Screenshot%202021-06-11%20214409.png) ![Level screen](https://github.com/tlegx/hangman_terminal/blob/master/demo/Screenshot%202021-06-11%20214449.png)
 ![Playing](https://github.com/tlegx/hangman_terminal/blob/master/demo/Screenshot%202021-06-11%20214506.png) ![Correct guess](https://github.com/tlegx/hangman_terminal/blob/master/demo/Screenshot%202021-06-11%20214600.png)
